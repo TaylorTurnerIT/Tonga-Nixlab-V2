@@ -11,7 +11,6 @@ Containers will be hosted exclusively through NixOS Virtual Machines.
 The planned Virtual Machines and Containers include:
 1. **Private Containers**
     - [Caddy](https://github.com/caddyserver/caddy) ❌
-    - [Pi-hole](https://github.com/pi-hole/pi-hole) ❌
     - [Gitea](https://github.com/go-gitea/gitea) ❌
     - Observability Suite ([Grafana](https://github.com/grafana/grafana), [Loki](https://github.com/grafana/loki), [Prometheus](https://github.com/prometheus)) ❌ 
     - [Home-Assistant](https://github.com/home-assistant/core) ❌
