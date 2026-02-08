@@ -8,7 +8,7 @@ Security is enforced using a multi-layered defense system.
 
 ## Virtual Machines
 Containers will be hosted exclusively through NixOS Virtual Machines. 
-The planned Virtual Machines include:
+The planned Virtual Machines and Containers include:
 1. Private Containers
     - [Caddy](https://github.com/caddyserver/caddy) ❌
     - [Pi-hole](https://github.com/pi-hole/pi-hole) ❌
@@ -17,10 +17,11 @@ The planned Virtual Machines include:
     - [Home-Assistant](https://github.com/home-assistant/core) ❌
     - [MinIO S3](https://github.com/minio/minio) ❌
     - [Huginn](https://github.com/huginn/huginn) ❌ 
-    - *Arr Suite ([Radarr](https://github.com/Radarr/Radarr), [Seerr](https://github.com/seerr-team/seerr), [Sonarr](https://github.com/Sonarr/Sonarr), Prohttps://github.com/Prowlarr/Prowlarrwlarr, [Bookshelf](https://github.com/bookshelf/bookshelf)) ❌
+    - *Arr Suite ([Radarr](https://github.com/Radarr/Radarr), [Seerr](https://github.com/seerr-team/seerr), [Sonarr](https://github.com/Sonarr/Sonarr), [Prowlarr](https://github.com/Prowlarr/Prowlarr), [Bookshelf](https://github.com/bookshelf/bookshelf)) ❌
 2. Public Containers
     - [Jellyfin](https://github.com/jellyfin/jellyfin) ❌
     - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ❌
     - [Homepage](https://github.com/prometheus) ❌
     - [Bar Assistant](https://github.com/karlomikus/bar-assistant) ❌
     - [Homebox](https://github.com/sysadminsmedia/homebox) ❌
+    - [Immich](https://github.com/immich-app/immich)
